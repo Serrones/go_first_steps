@@ -15,4 +15,4 @@ Following [Ellen Korbes Tutorial](https://www.youtube.com/playlist?list=PLCKpcjB
 
 ## Book
 
-[A Linguagem de Programação GO](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=I3NE5VN4G335&dchild=1&keywords=a+linguagem+de+programacao+go&qid=1596378424&sprefix=A+Linguagem+de+Pr%2Caps%2C331&sr=8-1)
+[LivroAzul](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=I3NE5VN4G335&dchild=1&keywords=a+linguagem+de+programacao+go&qid=1596378424&sprefix=A+Linguagem+de+Pr%2Caps%2C331&sr=8-1)
